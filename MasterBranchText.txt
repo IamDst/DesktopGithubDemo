@@ -1,3 +1,6 @@
 This line printed in master branch.
 
 This is new text from bugFix branch
+
+
+Another bugFix Line
